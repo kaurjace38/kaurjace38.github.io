@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Amrinder Singh"
   pronouns         : # example: "she/her"  
-  bio              : "I am stupid"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Computer Science Student | Passionate about technology, innovation, and continuous learning"
+  location         : "Houston"
+  employer         : #"Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
 
