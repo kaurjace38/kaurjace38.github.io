@@ -1,6 +1,6 @@
 ---
 title: "Multi chain restaurant"
-excerpt: "Built during my DBMS class, this Node.js and PostgreSQL-based application manages multiple restaurant branches seamlessly. It features a robust backend panel for adding, updating, and removing menu items, along with real-time transaction tracking across all branches. This project highlights my skills in full-stack development and database management.<br/><img src='/pot1.png'>"
+excerpt: "Built during my DBMS class, this Node.js and PostgreSQL-based application manages multiple restaurant branches seamlessly. It features a robust backend panel for adding, updating, and removing menu items, along with real-time transaction tracking across all branches. This project highlights my skills in full-stack development and database management.<br/><img src='images/pot1.png'>"
 collection: portfolio
 ---
 
