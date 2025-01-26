@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Multi chain restaurant"
+excerpt: "Built during my DBMS class, this Node.js and PostgreSQL-based application manages multiple restaurant branches seamlessly. It features a robust backend panel for adding, updating, and removing menu items, along with real-time transaction tracking across all branches. This project highlights my skills in full-stack development and database management.<br/><img src='/pot1.png'>"
 collection: portfolio
 ---
 
