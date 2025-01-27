@@ -1,7 +1,6 @@
 ---
-title: "Multi chain restaurant"
-excerpt: "SiriMind iOS App
-
+title: "SiriMind iOS App"
+excerpt: "
 This is a native iOS application I developed using UIKit and OpenAI’s GPT-3.5 API during the early days of ChatGPT. At the time, OpenAI had not yet released their official app, and I wanted a solution that allowed for hands-free, multitasking-friendly interaction with ChatGPT.<br/>
 
 The app integrates Firebase Authentication and Firebase Database for secure user management and data storage. This enables users to log in, manage their profiles, and store conversational data for personal analysis. By analyzing stored data, users can uncover patterns in their interactions, enhancing their productivity and self-awareness.<br/>
